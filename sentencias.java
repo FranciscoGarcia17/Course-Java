@@ -9,7 +9,6 @@ public class sentencias {
 		//double y = random.nextDouble();
 		boolean z = random.nextBoolean();
 		
-		
 		System.out.println(z);
 	}
 
